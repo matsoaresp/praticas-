@@ -11,3 +11,9 @@ progresso e facilitar futuras revisões.
 - 📚 Exercícios resolvidos em Java
 - 🧪 Testes de lógica de programação
 - 💡 Desafios e práticas do dia a dia
+
+## 🌐 Plataformas de Estudo
+Os exercícios presentes neste repositório foram retirados de plataformas conhecidas por fortalecerem o raciocínio lógico e a prática da programação:
+
+- 🧮 [Beecrowd](https://www.beecrowd.com.br/)
+- 💻 [LeetCode](https://leetcode.com/)
