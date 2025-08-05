@@ -1,5 +1,4 @@
 ## Olá pessoal 👋 
-<! --
 Este repositório foi criado com carinho para reunir meus exercícios de programação, principalmente em
 **Java**, feitos durante meus estudos diários. 🚀
 ## Sobre o repositório 
