@@ -16,6 +16,5 @@ public class idade_dias {
         System.out.println("Ano: "+ano);
         System.out.println("Mes: "+mes);
         System.out.println("Dias: "+diasRestantes);
-
     }
 }
